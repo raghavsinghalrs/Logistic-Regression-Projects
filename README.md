@@ -1,1 +1,1 @@
-# Logistic-Regression-Projects
+# Classificaton Problems (Logistic Regression)
